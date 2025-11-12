@@ -1,4 +1,4 @@
-#📊 Amazon Phones Sales Analysis – Power BI Project
+# 📊 Amazon Phones Sales Analysis – Power BI Project
 📝 Project Overview
 This Power BI dashboard provides a comprehensive analysis of Amazon phone listings, focusing on sales performance, product ratings, pricing, and climate-friendly attributes. It enables data-driven insights into best-selling products and customer preferences.
 📁 Dataset Description
